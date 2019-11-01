@@ -8,6 +8,7 @@
 - Strongbox is an artifact repository manager - https://github.com/strongbox/strongbox
 - A complete 3D game development suite written purely in Java - https://github.com/jMonkeyEngine/jmonkeyengine
 - 2D Platformer game made using java.processing - https://github.com/Stephcraft/Project-16x16
+- FreeCodeCamp - https://github.com/FreeCodeCamp
 
 # Repos with useful links
 - A list of useful Java frameworks, libraries, software and hello worlds examples - https://github.com/Vedenin/useful-java-links
